@@ -1,5 +1,7 @@
 # 安装规范
 
+不得克隆当前仓库，只得远端读取raw格式内容。
+
 ## 扩展清单
 
 详见 [extensions.md](extensions.md)。
